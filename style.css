@@ -1,0 +1,14 @@
+/* RESET BÁSICO */
+* {
+    margin: 10 #9b2c2c;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #fbf0e3;
+    color: #000000;
+}
+
+/* HEADER: Cabeçalho */
